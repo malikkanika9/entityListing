@@ -1,0 +1,173 @@
+{
+"products":[
+
+    {
+        "id": "1",
+        "Name": "BARBOUR Mens Green Plaid Button Down Casual Shirt",
+        "Brand": "BOBBI + BRICKA",
+        "imageurl": "https://img.shop.com/Image/270000/278100/278132/products/1925889439.jpg?size=400x400",
+        "typeofproduct": "Men's shirt",
+        "price": 2000,
+        "createdAt": "2022-05-04T05:23:46.196Z",
+        "updatedAt": "2022-05-04T05:23:46.196Z"
+    },
+    {
+        "id": "2",
+        "Name": "K-Swiss Mens Sweatshirt Fitness Hoodie",
+        "Brand": "Sold by BHFO",
+        "imageurl": "https://img.shop.com/Image/270000/273200/273200/products/1900647367.jpg?size=400x400",
+        "typeofproduct": "Men's Hoodie",
+        "price": 2000,
+        "createdAt": "2022-05-04T05:25:51.853Z",
+        "updatedAt": "2022-05-04T05:25:51.853Z"
+    },
+    {
+    "id": "3",
+    "Name": "DOCKERS Mens Navy Flat Front Easy Care Stretch Straight Leg Slim Fit Performance Stretch",
+    "Brand": "Sold by BOBBI+BRICKA",
+    "imageurl": "https://img.shop.com/Image/270000/278100/278132/products/1918856539.jpg?size=400x400",
+    "typeofproduct": "Men's Slim Fit",
+    "price": 2000,
+    "createdAt": "2022-05-04T05:28:10.360Z",
+    "updatedAt": "2022-05-04T05:28:10.360Z"
+},
+{
+    "id": "4",
+    "Name": "Natty Light Natural History Rowdy Gentleman Blue Men's T-Shirt",
+    "Brand": "Sold by  Main MerchA",
+    "imageurl": "https://img.shop.com/Image/260000/269300/269358/products/1857898430.jpg?size=400x400",
+    "typeofproduct": "Men's Slim Fit",
+    "price": 1000,
+    "createdAt": "2022-05-04T05:29:01.841Z",
+    "updatedAt": "2022-05-04T05:29:01.841Z"
+},
+{
+    "id": "5",
+    "Name": "HUGO BOSS Mens Black Lined Single Breasted Extra Slim Fit Suit Separate",
+    "Brand": "Sold by BOBBI + BRICKA",
+    "imageurl": "https://img.shop.com/Image/270000/278100/278132/products/1921790259.jpg?size=400x400",
+    "typeofproduct": "Men's Slim Fit suit",
+    "price": 8000,
+    "createdAt": "2022-05-04T05:30:48.735Z",
+    "updatedAt": "2022-05-04T05:30:48.735Z"
+},
+{
+    "id": "6",
+    "Name": "ADRIANNA PAPELL Womens Black Sheer Short Sleeve Illusion Neckline Party T-Shirt",
+    "Brand": "Sold by BOBBI + BRICKA",
+    "imageurl": "https://img.shop.com/Image/270000/278100/278132/products/1921266473.jpg?size=400x400",
+    "typeofproduct": "women's tshirt",
+    "price": 1500,
+    "createdAt": "2022-05-04T06:02:56.417Z",
+    "updatedAt": "2022-05-04T06:02:56.417Z"
+},
+{
+    "id": "7",
+    "Name": "Adrianna Papell Womens Crop Square Neck Tank Top",
+    "Brand": "Sold by BOBBI + BRICKA",
+    "imageurl": "https://img.shop.com/Image/270000/273200/273200/products/1930607796.jpg?size=400x400",
+    "typeofproduct": "women's tank top",
+    "price": 2500,
+    "createdAt": "2022-05-04T06:03:52.492Z",
+    "updatedAt": "2022-05-04T06:03:52.492Z"
+},
+{
+    "id": "8",
+    "Name": "M&M's Women's Mars Candy Chocolate M and M Spiral Tie-Dye Girls T-Shirt",
+    "Brand": "Sold by Seven Times Six",
+    "imageurl": "https://img.shop.com/Image/250000/254500/254570/products/1896906353.jpg?size=400x400",
+    "typeofproduct": "women's tshirt",
+    "price": 3500,
+    "createdAt": "2022-05-04T06:06:02.861Z",
+    "updatedAt": "2022-05-04T06:06:02.861Z"
+},
+{
+    "id": "9",
+    "Name": "ALFANI Womens Pink Sheer 3/4 Sleeve V Neck Tunic",
+    "Brand": "Sold by BOBBI + BRICKA",
+    "imageurl": "https://img.shop.com/Image/270000/278100/278132/products/1920881474.jpg?size=400x400",
+    "typeofproduct": "women's neck Tunic",
+    "price": 3500,
+    "createdAt": "2022-05-04T06:37:05.540Z",
+    "updatedAt": "2022-05-04T06:37:05.540Z"
+},
+{
+    "id": "10",
+    "Name":"Michael Kors Jet Set Travel Medium Dome Crossbody Bag",
+    "Brand":"Sold by LUX LAIR",
+    "imageurl":"https://img.shop.com/Image/290000/290400/290461/products/1918590497.jpg?size=400x400",
+    "typeofproduct":"women crossbody bag",
+    "price": "1200",
+    "createdAt": "2022-05-04T06:54:24.957Z",
+    "updatedAt": "2022-05-04T06:54:24.957Z"
+},
+
+{
+    "id": "11",
+    "Name":"CTM Men's Elastic Braided Stretch Belt with Silver Buckle",
+    "Brand":"Sold by Belt Outlet",
+    "imageurl":"https://img.shop.com/Image/280000/280600/280604/products/1825990674.jpg?size=400x400",
+    "typeofproduct":"Silver Buckle Belt",
+    "price": "1200",
+    "createdAt": "2022-05-04T06:54:24.957Z",
+    "updatedAt": "2022-05-04T06:54:24.957Z"
+},
+{
+    "id": "12",
+    "Name":"Michael Kors AVA Extra Small Crossbody Leather Bag",
+    "Brand":"Sold by LUX LAIR",
+    "imageurl":"https://img.shop.com/Image/290000/290400/290461/products/1928871295.jpg?size=400x400",
+    "typeofproduct":"Silver Buckle Belt",
+    "price": "3200",
+    "createdAt": "2022-05-04T06:54:24.957Z",
+    "updatedAt": "2022-05-04T06:54:24.957Z"
+},
+{
+    "id": "13",
+    "Name":"Tommy Hilfiger Men's Leather Casual Belt with Fabric Inlay",
+    "Brand":"Sold by Belt Outlet",
+    "imageurl":"https://img.shop.com/Image/280000/280600/280604/products/1872287304.jpg?size=400x400",
+    "typeofproduct":"Casual Belt",
+    "price": "3200",
+    "createdAt": "2022-05-04T06:54:24.957Z",
+    "updatedAt": "2022-05-04T06:54:24.957Z"
+},
+{
+    "id":"14",
+    "Name":"The Men's Store Mens Leather Pebbled Flat Sandals ",
+    "Manufacturer":"Fila",
+    "imageurl":"https://img.shop.com/Image/270000/273200/273200/products/1899881506.jpg?size=400x400",
+    "size origin":"USA",
+    "size":"5",
+    "style Type": "Sandals",
+    "price" : "12000",
+    "createdAt": "2022-05-04T06:54:24.957Z",
+    "updatedAt": "2022-05-04T06:54:24.957Z"
+},
+{
+    "id":"15",
+    "Name":"Keen Mens Newport H2 Buckle Closed Toe Sport Sandals ",
+    "Manufacturer":"sparks",
+    "imageurl":"https://img.shop.com/Image/260000/263300/263362/products/1782036570.jpg?size=400x400",
+    "size origin":"USA",
+    "size":"6",
+    "style Type": "Sandals",
+    "price" : "1000",
+    "createdAt": "2022-05-04T06:54:24.957Z",
+    "updatedAt": "2022-05-04T06:54:24.957Z"
+},
+
+{
+    "id":"16",
+    "Name":"adidas Men's Adilette Shower Slide Sandals from Finish Line",
+    "Manufacturer":"adidas",
+    "imageurl":"https://img.shop.com/Image/240000/243400/243406/products/1826168959.jpg?size=400x400",
+    "size origin":"USA",
+    "size":"6.5",
+    "style Type": "Slipers",
+    "price" : "2000"
+}
+
+]
+
+}
